@@ -1,0 +1,63 @@
+{
+  "contacts": [
+    {
+      "id": "GkEt6Uh",
+      "name": "Sukirman",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "email": "sukirman45@yahoo.com",
+      "mobile": 8082716196,
+      "title": "Apoteker",
+      "groupId": "2"
+    },
+    {
+      "name": "Supriyadi",
+      "photo": "https://cdn1.iconfinder.com/data/icons/avatars-round-flat/33/an-04-512.png",
+      "email": "Supri678@gmail.com",
+      "mobile": 8765845476875,
+      "title": "Sopir Ambulance",
+      "groupId": "2",
+      "id": "v7QBrXM"
+    },
+    {
+      "name": "Burry Wani",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "email": "WaniBurry8976@yahoo.com",
+      "mobile": 349164139981,
+      "title": "Suster",
+      "groupId": "3",
+      "id": "qlOa3Pi"
+    },
+    {
+      "name": "Karen Watson",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219961.png",
+      "email": "WatKar62253@gmail.com",
+      "mobile": 784628358253283,
+      "title": "Resepsionis",
+      "groupId": "2",
+      "id": "cp5ofbs"
+    },
+    {
+      "name": "Efendi Sandy",
+      "photo": "https://cdn-icons-png.flaticon.com/512/4128/4128176.png",
+      "email": "SandyEfendi38926@gmail.com",
+      "mobile": 8263198611986,
+      "title": "Dokter Bedah",
+      "groupId": "1",
+      "id": "8sYwUyL"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Gedung Ar-Rahman"
+    },
+    {
+      "id": "2",
+      "name": "Gedung Al-Hafizh"
+    },
+    {
+      "id": "3",
+      "name": "Gedung Al-Ghaffar"
+    }
+  ]
+}
